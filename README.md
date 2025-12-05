@@ -122,8 +122,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-**📅 آخر تحديث | Last Update:** ديسمبر 2023 | December 2023  
-**🔄 الإصدار | Version:** 2.0.0  
+**📅 آخر تحديث | Last Update:** ديسمبر 2025 | December 2025  
+**🔄 الإصدار | Version:** 1.0.0  
 **👨‍💻 بواسطة | By:** iimazin11
 
 ---
