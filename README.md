@@ -118,11 +118,6 @@
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-
-## 📞 التواصل | Contact
-
-- 📧 البريد الإلكتروني | Email: [تواصل معنا | Contact us]
-- 🐙 GitHub: [iimazin11](https://github.com/iimazin11)
 - 💬 Discord: [انضم للسيرفر | Join the server]
 
 ---
