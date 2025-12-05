@@ -1,4 +1,4 @@
-# MIT License
+
 
 **Copyright (c) 2025 iimazin11**
 
@@ -22,7 +22,6 @@ SOFTWARE.
 
 ---
 
-## 📝 Explanation in Arabic
 
 ### رخصة MIT
 
