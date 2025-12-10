@@ -1,20 +1,20 @@
 # 📚 Discord APIs Documentation - دليل شامل
 
 ## 📋 جدول المحتويات
-1. [🔐 Authentication APIs](#-authentication-apis)
-2. [👤 User APIs](#-user-apis)
-3. [🤖 Bot APIs](#-bot-apis)
-4. [🎮 Game & Hyper Squad APIs](#-game--hyper-squad-apis)
-5. [🏷️ Sticker APIs](#️-sticker-apis)
-6. [👥 Thread APIs](#-thread-apis)
+1. [🔐 Authentication APIs](#-authentication-apis-apis-المصادقة)
+2. [👤 User APIs](#-user-apis-apis-الخاصة-بالمستخدم)
+3. [🤖 Bot APIs](#-bot-apis-apis-الخاصة-بالبوتات)
+4. [🎮 Game & Hyper Squad APIs](#-game--hyper-squad-apis-ألعاب-وهايبر-سكواد)
+5. [🏷️ Sticker APIs](#%EF%B8%8F-sticker-apis-الملصقات)
+6. [👥 Thread APIs](#-thread-apis-المواضيعالخيوط)
 7. [🎭 Stage Discovery APIs](#-stage-discovery-apis)
 8. [📢 Announcement APIs](#-announcement-apis)
-9. [🎵 Soundboard APIs](#-soundboard-apis)
-10. [💬 Forum APIs](#-forum-apis)
-11. [🛡️ Safety & Analytics APIs](#️-safety--analytics-apis)
-12. [🎫 Ticket APIs](#-ticket-apis)
-13. [⚙️ Application APIs](#️-application-apis)
-14. [🔍 Search APIs](#-search-apis)
+9. [🎵 Soundboard APIs](#-soundboard-apis-لوحة-الأصوات)
+10. [💬 Forum APIs](#-forum-apis-المنتديات)
+11. [🛡️ Safety & Analytics APIs](#%EF%B8%8F-safety--analytics-apis-الأمان-والتحليلات)
+12. [🎫 Ticket APIs](#-ticket-apis-نظام-التذاكر)
+13. [⚙️ Application APIs](#%EF%B8%8F-application-apis-التطبيقات)
+14. [🔍 Search APIs](#-search-apis-البحث)
 15. [📌 معلومات عامة](#-معلومات-عامة)
 
 ---
